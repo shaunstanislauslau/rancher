@@ -48,7 +48,7 @@ require (
 	github.com/coreos/prometheus-operator v0.33.0
 	github.com/crewjam/saml v0.0.0-20190521120225-344d075952c9
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/docker/docker v0.7.3-0.20190808172531-150530564a14
 	github.com/docker/go-connections v0.3.0
 	github.com/docker/machine v0.0.0-20160115011140-7246b2c9650c

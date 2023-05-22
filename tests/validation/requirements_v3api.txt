@@ -15,5 +15,5 @@ pytest-html==1.20.0
 pytest-ordering==0.6
 python-digitalocean==1.13.2
 PyYAML==3.13
-requests==2.19.1
+requests==2.31.0
 websocket-client==0.53.0
